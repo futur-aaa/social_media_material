@@ -25,7 +25,7 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">4</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_hash">4b6213c91f2734f37c462465651ee5cc</property>
+  <property name="kdenlive:file_hash">f6aaf4b8da51b153ddf7806ef6b77f1f</property>
   <property name="kdenlive:monitorPosition">33</property>
   <property name="luma_file">/usr/share/kdenlive/lumas/HD/clock.pgm</property>
   <filter id="filter8">
